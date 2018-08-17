@@ -1,2 +1,0 @@
-# ekonomiData
-Nordea ekonomi test
